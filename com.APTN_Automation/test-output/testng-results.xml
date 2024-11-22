@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-22T18:33:16 IST" name="Suite" finished-at="2024-11-22T18:33:44 IST" duration-ms="28604">
+    <groups>
+    </groups>
+    <test started-at="2024-11-22T18:33:16 IST" name="Test" finished-at="2024-11-22T18:33:44 IST" duration-ms="28604">
+      <class name="com.testScripts.LoginTest">
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.testScripts.LoginTest@fa4c865]" started-at="2024-11-22T18:33:16 IST" name="browsersetup" finished-at="2024-11-22T18:33:22 IST" duration-ms="5933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="validPasswordloginpage()[pri:1, instance:com.testScripts.LoginTest@fa4c865]" started-at="2024-11-22T18:33:22 IST" name="validPasswordloginpage" finished-at="2024-11-22T18:33:41 IST" duration-ms="19598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validPasswordloginpage -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.testScripts.LoginTest@fa4c865]" started-at="2024-11-22T18:33:41 IST" name="quitt" finished-at="2024-11-22T18:33:44 IST" duration-ms="3015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+      </class> <!-- com.testScripts.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
