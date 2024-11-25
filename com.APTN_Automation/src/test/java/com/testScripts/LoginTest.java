@@ -54,8 +54,7 @@ public class LoginTest extends Base {
 		login.getLoginProfile().click();
 		System.out.println("User looged in successfully");
 		Thread.sleep(2000);
-		Thread.sleep(2000);
-		Thread.sleep(3000);
+		
 		
 
 	}
