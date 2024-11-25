@@ -26,7 +26,7 @@ public class Base {
 	public Properties prop;
 	public Properties dataProp;
 
-	public String path = "C:\\Users\\TECQNIO\\eclipse-workspace\\com.APTN_Automation\\com.properties";
+	public String path = "C:\\Users\\TECQNIO\\git\\KSP_Vikas\\com.APTN_Automation\\com.properties";
 
 	public void loadPropertiesFile() {
 		
